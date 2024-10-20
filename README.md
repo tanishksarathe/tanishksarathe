@@ -1,5 +1,5 @@
 ## Hi there 👋
-# tanishksarathe-
+# tanishksarathe
 # 💫 About Me:
 Constantly learning and exploring new technologies to build innovative solutions. 📚 Sharing my knowledge through posts and tutorial to empower others..
 
