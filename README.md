@@ -87,25 +87,12 @@ I **design systems**, **build products**, and **optimize for scale & clarity**.
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Activity Overview  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishksarathe&show_icons=true&theme=tokyonight" />
-</p>
+> A snapshot of my coding activity, language usage, and consistency over time.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishksarathe&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=tanishksarathe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=tanishksarathe&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishksarathe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishksarathe&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔝 Open Source Contributions  
-
-<img src="https://github-contributor-stats.vercel.app/api?username=tanishksarathe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 ---
 
@@ -118,6 +105,3 @@ I **design systems**, **build products**, and **optimize for scale & clarity**.
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tanishksarathe&icon=2&color=1" />
-</p>
